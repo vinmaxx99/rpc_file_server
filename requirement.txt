@@ -1,0 +1,5 @@
+cryptography==2.8
+pycrypto==2.6.1
+pycryptodome==3.9.8
+pycryptodomex==3.9.8
+
